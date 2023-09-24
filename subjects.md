@@ -1,0 +1,26 @@
+# Overview
+
+- HTML lists
+- HTML Selectors
+  - querySelector()
+  - querySelectorAll()
+  - Selector string
+    - element selector e.g. "li"
+    - class selector e.g. ".list-item"
+    - Id selector e.g. "#wrapper"
+- Selecting data
+  - getAttribute()
+- Insert html fra JavaScript
+- Arrays
+  - push()
+  - shuffle()
+    - Using the JavaScript library:underscores \_
+- Loops
+- Adding Events
+- Removing Events
+- functions
+- Vaiables
+  - Objects storing variables
+- Conditions
+  - if, else
+  - switch, case
